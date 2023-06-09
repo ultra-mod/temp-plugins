@@ -1,0 +1,7 @@
+{
+    "name": "Badges In Chat",
+    "main": "index.js",
+    "id": "badges-in-chat",
+    "version": "1.0.0",
+    "description": "Shows profile badges in the chat. Works only if you at least opened their profile once."
+}

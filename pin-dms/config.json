@@ -1,0 +1,7 @@
+{
+    "name": "Pin DMs",
+    "main": "index.js",
+    "id": "pin-dms",
+    "version": "1.0.0",
+    "description": "Allows you to pin direct messages to the top."
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Enable Staff Mode",
+    "main": "index.js",
+    "id": "enable-staff-mode",
+    "version": "1.0.0",
+    "description": "Emulates staff mode on your local client so you get access to experiments, hidden staff features etc."
+}

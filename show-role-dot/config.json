@@ -1,0 +1,7 @@
+{
+    "name": "Show Role Dot",
+    "main": "index.js",
+    "id": "show-role-dot",
+    "version": "1.0.0",
+    "description": "Shows a role dot next to the username of chatters."
+}

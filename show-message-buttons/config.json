@@ -1,0 +1,7 @@
+{
+    "name": "Show Message Buttons",
+    "main": "index.js",
+    "id": "show-message-buttons",
+    "version": "1.0.0",
+    "description": "Shows all message action buttons without having to hold shift."
+}
