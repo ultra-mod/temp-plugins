@@ -1,0 +1,7 @@
+{
+    "name": "No Sentry",
+    "main": "index.js",
+    "id": "no-sentry",
+    "version": "1.0.0",
+    "description": "Disables discord's sentry."
+}
