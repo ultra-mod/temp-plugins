@@ -1,0 +1,7 @@
+{
+    "name": "Reveal Amoled",
+    "main": "index.js",
+    "id": "reveal-amoled",
+    "version": "1.0.0",
+    "description": "Allows you to use discord's hidden amoled theme."
+}
